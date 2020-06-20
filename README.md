@@ -1,4 +1,4 @@
-# Directed Graph Algorithms
+# Directed Graph Arbitrage
 
 In this repo, you'll find a custom directed graph data structure that can do the following:
 1. Reverse / transpose all edges
